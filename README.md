@@ -1,3 +1,7 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnorthsoft.co%2Fblog%2Fgenel%2Fjavascript-nedir%2F&psig=AOvVaw1kdQdYibBvxM_gSmD_cscI&ust=1724178383163000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiCx7nXgYgDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/be6f27aa-3d95-4d83-be4d-0c087b706f69)
+)
+
+
 <h1 align="center">Hi 👋, I'm Kerem</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
